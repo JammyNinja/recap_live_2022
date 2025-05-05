@@ -49,4 +49,5 @@ Hyperlinks with a set of square brackets [], follwed by a set of parentheses ()
 
 ## Images
 Just like hyperlinks, but with an exalamation point(!) first:
-![git meme - one does not simply understand git](images\one_does_not_simply_understand_git.jpg)
+
+![git meme - one does not simply understand git](https://miro.medium.com/v2/resize:fit:600/0*VcMPr1unIjAIHw2j.jpg)
