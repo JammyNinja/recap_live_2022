@@ -37,3 +37,16 @@ Bullets are done with a hyphen
 
 1. number lists are easy
 2. number plus a full stop
+
+# Links
+## Hyperlinks
+Hyperlinks with a set of square brackets [], follwed by a set of parentheses ()
+
+[something like this](https://www.google.com/search?q=github+mascot)
+
+## Link to a document section
+[somewhere in the document](#introduction--context)
+
+## Images
+Just like hyperlinks, but with an exalamation point(!) first:
+![git meme - one does not simply understand git](images\one_does_not_simply_understand_git.jpg)
